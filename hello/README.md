@@ -1,4 +1,4 @@
-# Flutter serial tutorials base on the official document[flutter](https://flutter.dev).
+# Flutter serial tutorials base on the official document [flutter](https://flutter.dev).
 
 Flutter is a multiple platforms development framework from Google.
 
