@@ -2,19 +2,19 @@
 
 Flutter is a multiple platforms development framework from Google.
 
-## Development Setup
+# Development Setup
 
-# 1. Hello
+# Hello
 
-# 2. Welcome Screen
+# Welcome Screen
 
-# 3. All about Widgets
+# All about Widgets
 
-# 4. State management
+# State management
 
-# 5. Networking
+# Networking
 
-# 6. Platform specific feature
+# Platform specific feature
 
-# 7. etc.
+# etc...
 
