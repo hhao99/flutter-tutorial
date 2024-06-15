@@ -4,12 +4,12 @@ void main() {
   runApp(const MyApp());
 }
 
-class MyApp extends MaterialApp {
-  const MyApp() : super(home: const MyHomePage());
+class HelloApp extends MaterialApp {
+  const HelloApp() : super(home: const HomePage());
 }
 
-class MyHomePage extends StatelessWidget {
-  const MyHomePage({super.key});
+class HomePage extends StatelessWidget {
+  const HomePage({super.key});
   @override
   Widget build(BuildContext context) {
     return Scaffold(body: Text("Hello"));
