@@ -17,7 +17,10 @@ class HomePage extends StatelessWidget {
       body: Center(
         child: Column(
           children: [
-            Text("Hello"),
+            Padding(
+                padding: EdgeInsets.all(30),
+                child: Text("Hello Flutter",
+                    style: Theme.of(context).textTheme.displayMedium)),
           ],
         ),
       ),
